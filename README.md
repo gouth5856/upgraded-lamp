@@ -1,3 +1,4 @@
 # upgraded-lamp
 It is a new repository 
-Ww are college students
+I'm a college student
+I'm currently doing my B.Tech
